@@ -1,3 +1,5 @@
+# Code release
+
 These are companion scripts to the manuscript "Self-Supervised Maize Kernel Classification and Segmentation for Embryo Identification", which has been submitted to the journal Frontiers in Plant Science.
 
 * evaluate.py takes an existing model and formatted data directory to evaluate model performance.

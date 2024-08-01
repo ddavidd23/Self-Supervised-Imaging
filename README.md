@@ -1,9 +1,8 @@
 # Code release
 
-<div align="center">
-  <img width="50%" src="https://github.com/user-attachments/assets/f4313292-7e28-4b98-8c39-8c1ba4548509" />
-  <img width="50%" src="https://github.com/user-attachments/assets/860dd65e-6d9a-4f58-ab36-edc0c8accbea" />
-</div>
+<p align="center">
+  <img width="45%" src="https://github.com/user-attachments/assets/f4313292-7e28-4b98-8c39-8c1ba4548509" /> <img width="35%" src="https://github.com/user-attachments/assets/860dd65e-6d9a-4f58-ab36-edc0c8accbea"/>
+</p>
 
 These are companion scripts to the manuscript "Self-Supervised Maize Kernel Classification and Segmentation for Embryo Identification", which has been submitted to the journal Frontiers in Plant Science.
 
